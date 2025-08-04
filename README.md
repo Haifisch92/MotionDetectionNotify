@@ -1,8 +1,8 @@
 <a id="objectmotionnotify"></a>
 <br />
 <div align="center">
-  <a href="https://github.com/Haifisch92/ObjectMotionNotify/blob/main/images/ObjectMotionNotify.jpg">
-    <img src="images/ObjectMotionNotify.jpg" alt="Logo" width="410" height="360">
+  <a href="https://github.com/Haifisch92/ObjectMotionNotify/blob/main/images/MotionDetectionNotify.jpg">
+    <img src="images/MotionDetectionNotify.jpg" alt="Logo" width="768" height="768">
   </a>
   <h3 align="center">Object Motion Notify</h3>
   <p align="center">
