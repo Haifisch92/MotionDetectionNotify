@@ -1,0 +1,10 @@
+[telegram]
+token = 'your_bot_token_here'
+chat_id = 1234567891
+
+[camera]
+stream = "stream_url or 0"
+video_width = 800
+video_height = 800
+rotation = 90
+contur = 3000 #min area in pixel^2 for motion detect
