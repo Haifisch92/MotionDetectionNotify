@@ -4,7 +4,7 @@
   <a href="https://github.com/Haifisch92/ObjectMotionNotify/blob/main/images/MotionDetectionNotify.jpg">
     <img src="images/MotionDetectionNotify.jpg" alt="Logo" width="768" height="768">
   </a>
-  <h3 align="center">Object Motion Notify</h3>
+  <h3 align="center">Motion Detection Notify</h3>
   <p align="center">
     Motion Detection Software with OpenCV and Telegram Alerts
   </p>
